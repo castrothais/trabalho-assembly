@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1736706811 source:c:\users\thaís\desktop\trabalho-assembly\questao-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
